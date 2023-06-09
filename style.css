@@ -1,0 +1,61 @@
+marquee{
+    background-color: #f2f2f2;
+}
+.navbar-brand img{
+    height: 70px;
+    width: 200px;
+}
+.nav-link button{
+    background-color:#002E6E;
+    color: #fff;
+    font-weight: 700;
+    height: 30px;
+    width: 120px;
+    border-radius: 5px;
+    border: none;
+}
+.nav-item .nav-link{
+    color: #002E6E;
+    
+   
+}
+.cart button{
+    border-radius: 6px;
+    height: 40px;
+    width: 150px;
+    margin-left: 10px;
+    color: #00B9F1;
+    font-size: 20px;
+    border: 2px solid #e1e1e1;
+    background-color: transparent;
+}
+.login button{
+    border-radius: 6px;
+    height: 40px;
+    width: 100px;
+    margin-left: 10px;
+    color: #00B9F1;
+    font-size: 20px;
+    border: none;
+    background-color: transparent;
+}
+
+.para{
+    display: flex;
+    margin: 10px auto;
+    justify-content: left;
+    align-items: center;
+    width: 80%;
+    background-color: #f2f2f2 ;
+    border-radius: 5px;
+   
+}
+.para a{
+    text-decoration: none;
+    margin-right: 2px;
+    margin-left: 5px;
+    color: #232323;
+    font-size: 18px;
+    top: 50%;
+    
+}
